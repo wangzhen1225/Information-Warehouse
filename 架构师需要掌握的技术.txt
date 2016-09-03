@@ -1,0 +1,12 @@
+第一部分内容：并发编程 + activemq + SSI整合实战案例
+第二部分内容：网络编程 + Netty框架 + SSI整合实战案例 + jvm调优与实战
+第三部分内容：Linux + Redis + SpringBoot + Lua + SSDB + Oracle + SSI整合实战案例
+第四部分内容：zookeeper + rocketmq + SSI整合实战案例
+第五部分内容：Jenkins+ dubbo + dubbox + SSI整合实战案例
+第六部分内容：Storm + Kafka + Solr +实战案例
+第七部分内容：Nginx + keepalived + Fastdfs + SSI整合实战案例
+第八部分内容：RabbitMQ集群 + 镜像队列 + Haproxy 实现高可用TCP级别负载均衡（重点讲解内容）+ SpringBoot + Stream整合
+第九部分内容：在线日志分析平台(ELK) SpringBoot 整合 Redis 、logstash、elasticSearche kibana等 + Redis在线监控、动态节点添加、数据迁移平台
+第十部分内容：Mysql MariaDB + Galera Cluster + HA-Proxy  高可用集群 + 数据库高级设计与优化（重点讲解内容）
+---------------------------------------------------------------------------------------------------------------
+课程还涉及其他技术点：如，activity工作流、H2数据库、BerkeleyDB、spring data、spring cache、spring scheduled、spring batch、hadoop、hive、hbase、lvs、flume、kvm、openstack、extjs、bootstrap
